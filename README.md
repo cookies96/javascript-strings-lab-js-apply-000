@@ -75,7 +75,6 @@ This is called _interpolation_.
 You'll find a file called `index.js` in this directory. Your mission, should you choose to accept it, is to get its tests (in `tests/index-test.js`) to pass.
 
 You can run the tests using the `learn` command in your terminal or the Learn IDE. Give that a go now.
-
 ![waiting](https://i.giphy.com/9c830567WqLCw.gif)
 
 All three tests have failed! This is okay, and it's expected — you haven't written any code yet, after all.
